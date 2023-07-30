@@ -1,0 +1,35 @@
+#
+# CA's private key and self-signed certificate
+#
+# Country Name (2 letter code) [AU]
+CA_COUNTRY=""
+# State or Province Name (full name) [Some-State]
+CA_STATE=""
+# Locality Name (eg, city) []
+CA_SITY=""
+# Organization Name (eg, company) [Internet Widgits Pty Ltd]
+CA_ORGANIZATION=""
+# Organizational Unit Name (eg, section) []
+CA_UNIT=""
+# Common Name (e.g. server FQDN or YOUR name) []
+CA_NAME=""
+# Email Address []
+CA_EMAIL=""
+
+#
+# web server's private key and certificate signing request (CSR)
+#
+# Country Name (2 letter code) [AU]
+WS_COUNTRY=""
+# State or Province Name (full name) [Some-State]
+WS_STATE=""
+# Locality Name (eg, city) []
+WS_SITY=""
+# Organization Name (eg, company) [Internet Widgits Pty Ltd]
+WS_ORGANIZATION=""
+# Organizational Unit Name (eg, section) []
+WS_UNIT=""
+# Common Name (e.g. server FQDN or YOUR name) []
+WS_NAME=""
+# Email Address []
+WS_EMAIL=""
